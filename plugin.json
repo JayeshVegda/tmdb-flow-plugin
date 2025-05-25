@@ -1,7 +1,7 @@
 {
     "ID": "com.jayeshvegda.moviesearch",
     "ActionKeyword": "tmdb",
-    "Name": "TMDB Movie Search",
+    "Name": "Movie Search",
     "Description": "Search movies using TMDB API. Type 'tmdb' followed by a movie name to search. Shows movie details, ratings, and opens IMDB page on selection.",
     "Author": "Jayesh",
     "Version": "1.0.0",

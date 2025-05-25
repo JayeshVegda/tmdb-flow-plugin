@@ -43,7 +43,7 @@
 ## 🖼️ Screenshot
 
 <div align="center">
-  <img src="img/screenshot.png" alt="Plugin Screenshot" width="700"/>
+  <img src="img/shoot.png" alt="Plugin Screenshot" width="700"/>
 </div>
 
 ## 🎯 Examples

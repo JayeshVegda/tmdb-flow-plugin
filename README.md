@@ -39,6 +39,13 @@
 3. ⬆️⬇️ Use arrow keys to navigate through results
 4. ⏎ Press Enter to open the movie's IMDB page
 
+
+## 🖼️ Screenshot
+
+<div align="center">
+  <img src="img/screenshot.png" alt="Plugin Screenshot" width="700"/>
+</div>
+
 ## 🎯 Examples
 
 | Command | Description |

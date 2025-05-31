@@ -9,6 +9,6 @@
     "Website": "https://github.com/jayeshvegda/tmdb-flow-plugin",
     "IcoPath": "icon.png",
     "ExecuteFileName": "main.py",
-    "ExecutePath": "python"
+    "ExecutePath": "python" 
 }
   
